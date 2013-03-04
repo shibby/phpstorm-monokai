@@ -3,7 +3,7 @@
 
 This is a port of the Monokai theme from Sublime Text 2 to IntelliJ IDEA-based IDEs. It looks a bit like this:
 
-![Monokai_Sublime screenshot](https://github.com/digitaldeath/phpstorm-monokai/raw/master/screenshot.png)
+![Monokai_Sublime screenshot](https://raw.github.com/OtaK/jetbrains-monokai-sublime/master/screenshot.png)
 
 Note: I have created an issue on the Jetbrain's bug-tracker.
 The issue is related to selecting text that is highlighted after searching.
