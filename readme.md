@@ -1,8 +1,9 @@
-This is a port of the Monokai theme from Sublime Text 2 to PHPStorm. It looks a bit like this:
+## THIS IS A FORK FROM https://github.com/DmitryLanda/phpstorm-monokai
+#### This version supports Objective-C (for AppCode), Java (for IntelliJ IDEA), Ruby (for RubyMine, even though it already has a Monokai color scheme), and has better PHP support (PhpStorm)
+
+This is a port of the Monokai theme from Sublime Text 2 to IntelliJ IDEA-based IDEs. It looks a bit like this:
 
 ![Monokai_Sublime screenshot](https://github.com/digitaldeath/phpstorm-monokai/raw/master/screenshot.png)
-
-The main languages should be covered but things like HAML and SASS probably don't have the right colours, yet.
 
 Note: I have created an issue on the Jetbrain's bug-tracker.
 The issue is related to selecting text that is highlighted after searching.
