@@ -1,6 +1,6 @@
 This is a port of the Monokai theme from Sublime Text 2 to PHPStorm. It looks a bit like this:
 
-![Monokai_Sublime screenshot](https://github.com/digitaldeath/phpstorm-monokai/raw/master/screenshot.png)
+![Monokai_Sublime screenshot](https://raw.githubusercontent.com/shibby/phpstorm-monokai/master/screenshot.png)
 
 The main languages should be covered but things like HAML and SASS probably don't have the right colours, yet.
 
